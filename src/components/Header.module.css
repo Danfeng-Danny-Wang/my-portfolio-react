@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+  background-color: azure;
+  color: #13293d;
+}
+
+.header h1 {
+  font-family: garamond;
+  font-size: 260%;
+}
+
+.avatar {
+  width: 25%;
+  height: 25%;
+}

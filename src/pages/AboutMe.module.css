@@ -1,0 +1,25 @@
+.aboutMe {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2%;
+}
+
+.aboutMe h1 {
+  color: #13293d;
+  width: 40%;
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.textBody {
+  border-style: dotted;
+  border-color: rgb(218, 173, 114);
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-right: 10%;
+  padding: 2rem;
+}

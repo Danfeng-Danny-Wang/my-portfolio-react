@@ -22,3 +22,20 @@ body {
   margin: 0;
   line-height: 1.2;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  main {
+    text-align: center;
+  }
+
+  main section {
+    flex-direction: column;
+    padding-left: 120px;
+  }
+}

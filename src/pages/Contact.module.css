@@ -1,0 +1,36 @@
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2%;
+}
+
+.contact h1 {
+  color: #13293d;
+  width: 40%;
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.contactForm {
+  background-color: var(--color-light--2);
+  border-radius: 7px;
+  padding: 2rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.formRow {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: relative;
+}
+
+.formButton {
+  display: flex;
+  justify-content: space-between;
+}

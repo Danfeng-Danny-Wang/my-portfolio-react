@@ -1,0 +1,24 @@
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2%;
+}
+
+.projects h1 {
+  color: #13293d;
+  width: 40%;
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.projectsBody {
+  border-style: dotted;
+  border-color: rgb(218, 173, 114);
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-right: 10%;
+}

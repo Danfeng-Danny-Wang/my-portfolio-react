@@ -10,7 +10,7 @@ const myProjects = [
     techUsed: "HTML, CSS, Tailwind, Javascript",
     deployLink: "https://acomuzzie.github.io/whos-on-first/",
     githubLink: "https://github.com/AComuzzie/whos-on-first",
-    imgSrc: "/Whos-On-First.png",
+    imgSrc: "./Whos-On-First.png",
     imgAlt: "whos-on-first webpage screenshot",
   },
   {
@@ -18,7 +18,7 @@ const myProjects = [
     techUsed: "Node.js, Express.js, RESTful API, MySQL",
     deployLink: "https://project-collections-cfb3d3b9c8f8.herokuapp.com/",
     githubLink: "https://github.com/Kumoko8/Collectibles-Full-Stack-App",
-    imgSrc: "/Collectibles.png",
+    imgSrc: "./Collectibles.png",
     imgAlt: "Collectibles webpage screenshot",
   },
   {
@@ -26,7 +26,7 @@ const myProjects = [
     techUsed: "MERN stack, graphQL",
     deployLink: "https://workaholics-chat123-7583c92cc0c9.herokuapp.com/",
     githubLink: "https://github.com/Danfeng-Danny-Wang/workaholics",
-    imgSrc: "/Work-A-Holics.png",
+    imgSrc: "./Work-A-Holics.png",
     imgAlt: "workaholics webpage screenshot",
   },
 ];

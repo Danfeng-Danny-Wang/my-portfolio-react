@@ -1,0 +1,30 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+  min-width: 300px;
+  list-style: none;
+}
+
+.links li {
+  padding: 0.4rem;
+}
+
+.links li a {
+  color: #13293d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.links li a:hover {
+  background-color: rgb(218, 173, 114);
+}

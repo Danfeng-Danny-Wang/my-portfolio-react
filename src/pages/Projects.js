@@ -2,6 +2,7 @@ import styles from "./Projects.module.css";
 import Header from "../components/Header";
 import NavBar from "../components/NavBar";
 import Project from "../components/Project";
+import Footer from "../components/Footer";
 
 const myProjects = [
   {
@@ -45,6 +46,7 @@ function Projects() {
           </div>
         </section>
       </main>
+      <Footer />
     </>
   );
 }
